@@ -1,0 +1,36 @@
+# Node.js 기본 파일 및 폴더
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# 환경 파일
+.env
+
+# 빌드 출력
+dist/
+build/
+out/
+
+# 로그 파일
+logs/
+*.log
+
+# OS 및 IDE 관련 파일
+.DS_Store
+Thumbs.db
+
+# TypeScript 컴파일 결과
+*.tsbuildinfo
+
+# 바이너리 파일
+*.exe
+*.dll
+*.so
+*.dylib
+
+# 기타 환경에 따른 파일
+.vscode/
+.idea/
+*.swp
